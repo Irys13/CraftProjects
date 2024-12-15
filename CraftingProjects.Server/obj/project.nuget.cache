@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3tgPs/+zeD8=",
+  "success": true,
+  "projectFilePath": "D:\\MyFiles\\Dev\\CraftingProjects\\CraftingProjects.Server\\CraftingProjects.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kofku\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.11\\microsoft.aspnetcore.spaproxy.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
