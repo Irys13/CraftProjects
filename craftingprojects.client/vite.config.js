@@ -46,9 +46,13 @@ export default defineConfig({
             '^/weatherforecast': {
                 target,
                 secure: false
+            },
+            '^/api/yarn': {
+                target,
+                secure: false
             }
         },
-        port: 5173,
+        port: 5122,
         https: {
             key: fs.readFileSync(keyFilePath),
             cert: fs.readFileSync(certFilePath),
