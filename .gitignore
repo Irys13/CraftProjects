@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CraftingProjects.Server/bin/Debug/net8.0
+/.vs/CraftingProjects/DesignTimeBuild
+/.vs/CraftingProjects/FileContentIndex
